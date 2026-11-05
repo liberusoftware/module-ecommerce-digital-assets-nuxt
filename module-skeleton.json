@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-digital-assets-nuxt",
+  "capabilityKey": "planned:ecommerce:digital-assets",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-digital-assets-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/digital-assets.md",
+  "presentationPlan": "projects/ecommerce/nuxt/digital-assets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
